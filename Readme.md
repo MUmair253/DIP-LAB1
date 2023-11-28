@@ -1,0 +1,1 @@
+The assigned AOI was TandoAdam, Sindh, the data was retrived from alaska satallite facility. here is the cloud drive link for the data used in the lab: https://drive.google.com/drive/folders/1wOHFwc8PWUSImAQN8BW4FpMDeE0McZqC?usp=drive_link.
